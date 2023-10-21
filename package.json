@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "zenn preview",
     "new:article": "zenn new:article",
-    "new:book": "zenn new:book",
-    "preview": "zenn preview"
+    "new:book": "zenn new:book"
   },
   "keywords": [],
   "author": "",
