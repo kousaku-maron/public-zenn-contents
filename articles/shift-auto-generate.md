@@ -3,7 +3,7 @@ title: "数理最適化で看護師のシフト（勤務表）を自動生成し
 emoji: "👩‍⚕️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["python", "数理最適化", "pulp"]
-published: false
+published: true
 ---
 
 最近、看護師のシフト（勤務表）の自動生成について調査したので、その内容を少しご紹介しようと思います。
